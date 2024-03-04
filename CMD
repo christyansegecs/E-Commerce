@@ -1,0 +1,47 @@
+
+file>preferences>keyboard shortcuts>emmet balance outward>ctrl + m
+
+npx create-next-app@latest digitalhippo
+npx shadcn-ui@latest init
+npx shadcn-ui@latest add button
+npx shadcn-ui@latest add sheet
+npx shadcn-ui@latest add separator
+npx shadcn-ui@latest add input
+npx shadcn-ui@latest add label
+npx shadcn-ui@latest add dropdown-menu
+npx shadcn-ui@latest add skeleton
+npx shadcn-ui@latest add scroll-area
+
+npm i lucide-react
+npm i express
+npm add -D @types/express
+npm i dotenv
+npm add payload
+npm add cross-env
+npm add @payloadcms/richtext-slate
+npm add @payloadcms/bundler-webpack
+npm add @payloadcms/db-mongodb
+npm add -D nodemon
+npm install -g ts-node
+
+npm add react-hook-form @hookform/resolvers zod sonner
+
+npm add @trpc/client @trpc/next @trpc/react-query @trpc/server @tanstack/react-query
+npm add @tanstack/react-query@4.36.1
+npm add nodemailer
+npm add -D @types/nodemailer
+
+npm add swiper
+npm add zustand
+
+npm add stripe
+
+npm add body-parser
+
+npm add @react-email/components
+
+npm add date-fns
+
+npm add -D copyfiles
+
+npm add resend
