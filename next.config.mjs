@@ -3,7 +3,7 @@ const nextConfig = {
     images: {
         domains: [
             'localhost',
-            'https://e-commerce-production-ad3a.up.railway.app/'
+            'e-commerce-production-ad3a.up.railway.app'
         ]
     }
 };
